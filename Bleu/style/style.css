@@ -1,0 +1,137 @@
+/*Thoriq Hidayansyah_2172019
+    -Yovie Adhisti_2172005
+    -Fransisca Elizabeth _2172007*/
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    height: 10;
+    width: 30;
+}
+.nav{
+    height: 100px;
+    background-color: #012e4b;
+    text-align: center;
+}
+.center{
+    text-align: center;
+}
+.table{
+    width: 1000px;
+    height: 700px;
+    margin: 0 auto;
+}
+
+.table2{
+    margin: 0 auto;
+    border: 0px solid;
+    text-align: left;
+}
+.pic{
+    width: 400px;
+    height: 550px;
+}
+.pic:hover{
+    opacity: 5.0;
+    transform: scale(1.20);
+    color: grey;
+}
+.buletan {
+    background-color: #4CAF50;
+    display: inline-block;
+    height: 110px;
+    width: 110px;
+    border-radius: 100%;
+  }
+.buletan {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+.fontfixed{
+    font-size: 20px;
+}
+.kiri{
+    text-align: left;
+}
+h1.font{
+    font-size: 70px;
+    text-align: left;
+}
+p{
+    text-align: left;
+}
+.kotak {
+    position: relative;
+    margin: 20px auto;
+    width: 80%;
+    height: 80%;
+    border-radius: 2%;
+}
+.main {
+    width: 400px;
+    height: 400px;
+    margin-left: 150px;
+    margin-top: 150px;
+}
+.kaca{
+    font-size: 100px;
+    font-weight: 900;
+}
+.kaca2{
+    font-size: 30px;
+}
+.button {
+    font-size: 30px;
+    display: inline-block;
+    border: 2px solid black;
+    padding: 5px 60px;
+    border-radius: 8px;
+    background-color: #012e4b;
+    color: white;
+}
+button:hover{
+    opacity: 5.0;
+    transform: scale(1.20);
+
+}
+.kotak .main img {
+    position: absolute;
+    width: 800px;
+    right: 100px;
+    top: 0px;
+}
+a.color{
+    color: white;
+}
+.harga{
+    position: static;
+    display: inline-block;
+    background-color: #012e4b;
+    border-radius: 8px;
+    padding: 5px 30px;
+    color: white;
+
+}
+.div1{
+    position: relative;
+    float: left;
+    padding: 15px;
+    font-size: 20px;
+    color: white;
+} 
+
+.merah{
+    color: red;
+}
+.divkanan{
+    float: left;
+    padding: 10px;
+}
+
+.top{
+    top: 10px;
+}
